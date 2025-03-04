@@ -1,1 +1,3 @@
-# Decision-Tree
+# A Decision-Tree-Based Bayesian Approach for Chance-Constrained Health Prevention Budget Rationing
+
+This project explores medical test rationing using decision-tree-based Bayesian inference, optimizing healthcare budgets while ensuring effective disease screening. By integrating machine learning and probabilistic modeling, it minimizes unnecessary tests without compromising at-risk patient detection. Applied to real-world case studies, the framework achieved a 90% reduction in redundant tests while maintaining high screening accuracy for hypertension and diabetes. The approach enhances cost-effective healthcare decision-making, balancing budget constraints and public health priorities.
